@@ -17,7 +17,9 @@ A **menu system** appears, asking you for your **choice** of game.
 **Select** your game of choice, and enjoy!
 
 ## Example Output
-''' Welcome to the Math Game Menu! Make a choice between the options below to play a math game! 
+
+```
+Welcome to the Math Game Menu! Make a choice between the options below to play a math game! 
 1. Absolute Differences
 2. Remainder Finder
 3. Divisibility Checker
@@ -37,4 +39,6 @@ Welcome to the Math Game Menu! Make a choice between the options below to play a
 3. Divisibility Checker
 4. Exit
 Please pick between 1-4: 4
-Goodbye! '''
+Goodbye!
+
+'''
