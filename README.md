@@ -39,4 +39,5 @@ Welcome to the Math Game Menu! Make a choice between the options below to play a
 3. Divisibility Checker
 4. Exit
 Please pick between 1-4: 4
-Goodbye! '''
+Goodbye!
+```
