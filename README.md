@@ -40,5 +40,4 @@ Welcome to the Math Game Menu! Make a choice between the options below to play a
 4. Exit
 Please pick between 1-4: 4
 Goodbye!
-
 '''
